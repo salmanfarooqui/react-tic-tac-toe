@@ -1,0 +1,3 @@
+It is based on the official reactjs tic tac toe [tutorial](https://reactjs.org/tutorial/tutorial.html). I have added many features such as a match draw message, resetting game at any point, highlighting winning squares and using SVG for animating X and O.
+
+![react-tic-tac-toe](https://raw.githubusercontent.com/salmanfarooqui/react-tic-tac-toe/f4a925c7f1b7b72c84828d94dd0c7460236434a4/tic-tac-toe.gif)
