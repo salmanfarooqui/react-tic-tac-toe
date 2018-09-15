@@ -14,3 +14,7 @@ Then simply run `npm start`. You can now see it at localhost:3000 in your browse
 ## Build
 
 To build it for production, use `npm build`
+
+## Demo
+
+See it live at http://www.salmanfarooqui.com/tictactoe
